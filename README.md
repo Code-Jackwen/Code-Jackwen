@@ -12,18 +12,17 @@
 
 ## Welcome
 
-> 🌱 **大道至简，知易行难**
+🌱 **大道至简，知易行难**
 
 
-我的博客：
 💬  [GitHub](https://github.com/Code-Jackwen)
 💬  [掘金](https://juejin.cn/user/2005154727210477)
 💬  [个人博客](https://code-jackwen.github.io/)
 
 我的简历：
-🍵- [Readme](https://github.com/Code-Jackwen)
+🍵  [Readme](https://github.com/Code-Jackwen)
 
-
+:rabbit2:
 
 
 
