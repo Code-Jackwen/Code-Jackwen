@@ -3,7 +3,7 @@
 <div>
 <p align="center">
     <a href="https://github.com/Code-Jackwen" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/Code-Jackwen/OtherPictures/blob/main/pic/1.jpg" alt="logo" width="150px"/>
+        <img src="https://github.com/Code-Jackwen/OtherPictures/blob/main/pic/1.jpg" alt="logo"/>
     </a>
 </p>
 </div>
