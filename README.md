@@ -7,7 +7,6 @@
     <a href="https://github.com/Code-Jackwen" target="_blank" rel="noopener noreferrer">
 <!--         <img src="https://github.com/Code-Jackwen/OtherPictures/blob/main/pic/1.jpg" alt="logo" width="350px"/> -->
         <img src="https://github.com/Code-Jackwen/OtherPictures/blob/main/pic/5.jpg" alt="logo" width="450px" />
-
     </a>
 </p>
 </div>
