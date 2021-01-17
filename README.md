@@ -20,14 +20,15 @@
 
 🌱  **大道至简，知易行难**
 
-
 :palm_tree:   [GitHub](https://github.com/Code-Jackwen)
 
 :cactus:   [掘金](https://juejin.cn/user/2005154727210477)
 
 :seedling:   [知乎](https://www.zhihu.com/people/zhao-ji-wen-88-6)
 
-:four_leaf_clover:   [个人博客](https://code-jackwen.github.io/)
+:sunflower:   [个人博客](https://code-jackwen.github.io/)
+
+:four_leaf_clover:   [公众号：CodeParadise](https://github.com/Code-Jackwen/OtherPictures/blob/main/pic/gzh1.jpg)
 
 简历：
 :rabbit2:  [Resume](https://github.com/Code-Jackwen)
