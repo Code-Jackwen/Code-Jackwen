@@ -2,7 +2,7 @@
 
 <div>
 <p align="center">
-    <a href="https://code-jackwen.github.io/" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/Code-Jackwen" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/dunwu/images/master/common/dunwu-logo-200.png" alt="logo" width="150px"/>
     </a>
 </p>
@@ -16,9 +16,9 @@
 
 
 我的博客：
-💬- [GitHub](https://github.com/Code-Jackwen)
-💬- [掘金](https://juejin.cn/user/2005154727210477)
-💬- [个人博客](https://code-jackwen.github.io/)
+💬  [GitHub](https://github.com/Code-Jackwen)
+💬  [掘金](https://juejin.cn/user/2005154727210477)
+💬  [个人博客](https://code-jackwen.github.io/)
 
 我的简历：
 🍵- [Readme](https://github.com/Code-Jackwen)
