@@ -3,7 +3,7 @@
 <div>
 <p align="center">
     <a href="https://github.com/Code-Jackwen" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/Code-Jackwen/OtherPictures/main/pic/1.jpg" alt="logo" width="150px"/>
+        <img src="https://github.com/Code-Jackwen/OtherPictures/blob/main/pic/1.jpg" alt="logo" width="150px"/>
     </a>
 </p>
 </div>
@@ -18,9 +18,9 @@
 🌱  **大道至简，知易行难**
 
 
-:four_leaf_clover:   [GitHub](https://github.com/Code-Jackwen)
+:palm_tree:   [GitHub](https://github.com/Code-Jackwen)
 
-:four_leaf_clover:   [掘金](https://juejin.cn/user/2005154727210477)
+:cactus:   [掘金](https://juejin.cn/user/2005154727210477)
 
 :four_leaf_clover:   [个人博客](https://code-jackwen.github.io/)
 
