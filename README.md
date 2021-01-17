@@ -23,6 +23,8 @@
 
 :palm_tree:   [GitHub](https://github.com/Code-Jackwen)
 
+:seedling:   [知乎](https://www.zhihu.com/people/zhao-ji-wen-88-6)
+
 :cactus:   [掘金](https://juejin.cn/user/2005154727210477)
 
 :four_leaf_clover:   [个人博客](https://code-jackwen.github.io/)
