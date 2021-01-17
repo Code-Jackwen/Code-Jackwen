@@ -1,15 +1,17 @@
 # | Jackwen
 
+
+<br>
 <div>
 <p align="center">
     <a href="https://github.com/Code-Jackwen" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/Code-Jackwen/OtherPictures/blob/main/pic/1.jpg" alt="logo"/>
+        <img src="https://github.com/Code-Jackwen/OtherPictures/blob/main/pic/1.jpg" alt="logo" width="350px"/>
 <!--         <img src="https://github.com/Code-Jackwen/OtherPictures/blob/main/pic/2.jpg" alt="logo" width="400px" /> -->
     </a>
 </p>
 </div>
 
-
+<br>
       
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=code-jackwen&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
