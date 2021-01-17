@@ -15,14 +15,16 @@
 🌱 **大道至简，知易行难**
 
 
-💬  [GitHub](https://github.com/Code-Jackwen)
-💬  [掘金](https://juejin.cn/user/2005154727210477)
-💬  [个人博客](https://code-jackwen.github.io/)
+🍵  [GitHub](https://github.com/Code-Jackwen)
 
-我的简历：
-🍵  [Readme](https://github.com/Code-Jackwen)
+🍵  [掘金](https://juejin.cn/user/2005154727210477)
 
-:rabbit2:
+🍵  [个人博客](https://code-jackwen.github.io/)
+
+简历：
+:rabbit2:  [Readme](https://github.com/Code-Jackwen)
+
+
 
 
 
