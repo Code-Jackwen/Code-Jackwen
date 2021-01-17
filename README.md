@@ -30,7 +30,7 @@
 :four_leaf_clover:   [个人博客](https://code-jackwen.github.io/)
 
 简历：
-:rabbit2:  [Readme](https://github.com/Code-Jackwen)
+:rabbit2:  [Resume](https://github.com/Code-Jackwen)
 
 
 
