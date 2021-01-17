@@ -28,10 +28,9 @@
 
 :sunflower:   [个人博客](https://code-jackwen.github.io/)
 
-:four_leaf_clover:   [公众号：CodeParadise](https://github.com/Code-Jackwen/OtherPictures/blob/main/pic/gzh1.jpg)
+:four_leaf_clover:   [公众号 | CodeParadise](https://github.com/Code-Jackwen/OtherPictures/blob/main/pic/gzh1.jpg)
 
-简历：
-:rabbit2:  [Resume](https://github.com/Code-Jackwen)
+:rabbit2:  [简历 | Resume](https://github.com/Code-Jackwen)
 
 
 
