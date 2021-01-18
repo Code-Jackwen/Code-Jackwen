@@ -26,7 +26,7 @@
 
 :seedling:   [知乎](https://www.zhihu.com/people/zhao-ji-wen-88-6)
 
-:sunflower:   [个人博客]()
+:sunflower:   [个人博客](#)
 
 :four_leaf_clover:   [公众号 | CodeParadise](https://github.com/Code-Jackwen/OtherPictures/blob/main/pic/gzh1.jpg)
 
