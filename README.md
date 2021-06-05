@@ -30,7 +30,7 @@
 
 :four_leaf_clover:   [公众号 | CodeParadise](https://github.com/Code-Jackwen/OtherPictures/blob/main/pic/gzh1.jpg)
 
-:rabbit2:  [简历 | Resume](https://github.com/Code-Jackwen/PR)
+:rabbit2:  [简历 | Resume]()  <!-- https://github.com/Code-Jackwen/PR -->
 
 
 
