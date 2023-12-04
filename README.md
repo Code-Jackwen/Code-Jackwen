@@ -22,11 +22,11 @@
 
 :palm_tree:   [GitHub](https://github.com/Code-Jackwen)
 
-:cactus:   [掘金](https://juejin.cn/user/2005154727210477)
+:cactus:   
 
-<!-- :seedling:   [知乎](https://www.zhihu.com/people/zhao-ji-wen-88-6)
+<!-- :seedling:   
 -->
-:sunflower:   [个人博客](https://github.com/Code-Jackwen.)
+:sunflower:   
 
 :four_leaf_clover:   [公众号 | CodeParadise](https://github.com/Code-Jackwen/OtherPictures/blob/main/pic/gzh1.jpg)
 
